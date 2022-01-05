@@ -6,8 +6,11 @@ The purpose of this analysis is to predict if an applicant with default on a loa
 # Results
 
 ## Naive Random Oversampling
+
 Accuracy Score: 0.62
+
 ![image](https://user-images.githubusercontent.com/88340176/148154903-00c0b312-c4ea-4c89-b6e1-dd57d8b8fe72.png)
+
 
 ## SMOTE Oversampling
 Accuracy Score: 0.65
